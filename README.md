@@ -1,10 +1,5 @@
 ## Hi there 👋
 
-<!--
-**Aivalfiren/Aivalfiren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I'm currently working on deepening my knowledge in programming and data.
 - 🌱 I'm currently learning BackEnd | Node.js | Typescript | HTML | SQL
 - 👯 I try to collaborate on projects to develop myself in programming.
@@ -15,4 +10,3 @@ fleite469@gmail.com
 https://www.linkedin.com/in/flavialeiteneri/
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I'm in a career transition and looking for an opportunity.
--->
