@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 🔭 I'm currently working on deepening my knowledge in programming and data.
-- 🌱 I'm currently learning BackEnd | Node.js | Typescript | HTML | SQL
+- 🌱 I'm currently learning Pyhton | SQL
 - 👯 I try to collaborate on projects to develop myself in programming.
 - 🤔 I'm looking for help with tips that can contribute to my learning.
 - 💬 Ask me about things in general, I love talking.
